@@ -1,17 +1,3 @@
-
-Conversa aberta. Uma mensagem lida.
-
-Pular para o conteúdo
-Como usar o E-mail de Instituto Federal de Pernambuco com leitores de tela
-in:sent 
-
-1 de 2
-a
-
-Gustavo Chagas <gdc2@discente.ifpe.edu.br>
-09:48 (há 7 horas)
-para tiagopessoa1011@gmail.com
-
 package org.exercicio.banco.template.model;
 
 /**
